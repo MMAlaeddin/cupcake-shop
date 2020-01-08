@@ -34,3 +34,44 @@ nav ul {
     color: red;
     font-style: italic;
 }
+
+.featured {
+    display: inline;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* text-align: center */
+    
+}
+
+.best {
+    display: inline;
+    /* margin-left: auto;
+    margin-right: auto; */
+    /* text-align: center; */
+}
+
+p {
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+div {
+    /* display: inline; */
+    text-align: center;
+
+}
+
+div ul {
+    display: block;
+    /* list-style-type: none; */
+    display: inline;
+    padding: 50px;
+}
+
+.flavors {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
